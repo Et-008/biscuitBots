@@ -1,0 +1,12 @@
+.cookie-police {
+  left: 20px;
+  bottom: 20px;
+  width: 150px;
+  height: 100px;
+  padding: 10px 5px;
+  position: absolute;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  background: #ffffff;
+  border: 1px solid #00000080;
+}
